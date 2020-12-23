@@ -1,24 +1,3 @@
-# video-browser
+# Vue.js YouTube Video Browser
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This application was built as part of the Vue.js course taught by Stephen Grider on Udemy.
